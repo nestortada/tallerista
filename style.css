@@ -1,7 +1,6 @@
 /* FONT FAMILY LINK  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-
 .logo-img {
     width: 24px; /* Ajusta el ancho al tamaño del ícono de TikTok */
     height: 24px; /* Ajusta la altura al tamaño del ícono de TikTok */
@@ -439,7 +438,6 @@ body {
 .videos .video .video-box .video-section:hover~.user-info {
     background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.01));
 }
-
 
 .videos .video .video-box .video-info .user-info h5 {
     color: #fff;
